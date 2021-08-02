@@ -14,5 +14,4 @@
 
 [facebook]: https://www.facebook.com/ennoxenn/
 [twitter]: https://twitter.com/RitikMandal20
-[tumblr]: https://ritik1.tumblr.com/
 [linkedin]: https://www.linkedin.com/in/ritik-mandal-197412192/
