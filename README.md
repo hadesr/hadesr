@@ -1,6 +1,6 @@
 ### Hi there👋 fellow human being 😄
 
-[<img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hadesr&show_icons=true&hide_border=true"/>]()
+[![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadesr)](https://github.com/anuraghazra/github-readme-stats)
 [<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesr&layout=compact"/>]()
 
 ##### Connect with me:
